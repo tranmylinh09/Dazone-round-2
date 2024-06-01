@@ -1,0 +1,1 @@
+Perform customer clustering using K-Means clustering to get an overview of customer groups with similar characteristics, thereby optimizing marketing and service strategies, enhancing personalized interactions and enhancing customer experiences customer experience.
